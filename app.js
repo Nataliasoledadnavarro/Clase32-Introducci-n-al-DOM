@@ -38,3 +38,21 @@ const colorBody = document.querySelector("body");
 colorBody.style.backgroundColor = colorRgb;*/
 
 ////EJERCICIO 4////
+
+/*const tamañoImagen = prompt(
+  "Ingresa el tamaño de imagen deseado: chica, mediana o grande"
+);
+
+const imagen = document.querySelector(".gatito");
+
+const cambiarTamaño = (tamañoImagen) => {
+  if (tamañoImagen == "chica") {
+    imagen.style.width = "200px";
+  } else if (tamañoImagen == "mediana") {
+    imagen.style.width = "500px";
+  } else if (tamañoImagen == "grande") {
+    imagen.style.width = "800px";
+  }
+};
+
+cambiarTamaño(tamañoImagen)*/
