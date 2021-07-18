@@ -131,3 +131,24 @@ meGusta.textContent = "👍 " + reaccionMeGusta;
 meEncanta.textContent = "❤️ " + reaccionMeEncanta;
 
 meAsombra.textContent = "😮 " + reaccionMeAsombra;*/
+
+/// EJERCICIO 8 ////
+
+/*const ingresarTitulo = prompt("Ingrese título del artículo")
+
+const ingresarUrlImagen = prompt("Ingrese url de la imagen")
+
+const ingresarUrlArticulo = prompt("Ingrese url del artículo")
+
+const titulo = document.querySelector("h1")
+
+const urlImagen = document.querySelector("img")
+
+const urlArticulo = document.querySelector("a")
+
+titulo.textContent = ingresarTitulo;
+
+urlImagen.src = ingresarUrlImagen;
+
+urlArticulo.href = ingresarUrlArticulo;*/
+
